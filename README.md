@@ -1,7 +1,7 @@
 
-Developing the signal processing algorithms for brain functions and networks, through EEG & fMRI
-Learning computer music production
-Pronoun: Mr. Fox
+-Developing the signal processing algorithms for brain functions and networks, through EEG & fMRI
+-Learning computer music production
+-Pronoun: Mr. Fox
 <!--
 **EhsanEqlimi/EhsanEqlimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
