@@ -1,5 +1,5 @@
 
-- Developing the signal processing algorithms for brain functions and networks, through EEG & fMRI
+- Developing signal processing algorithms for brain functions and networks, through EEG & fMRI
 - Learning computer music production
 - Pronoun: Mr. Fox
 <!--
