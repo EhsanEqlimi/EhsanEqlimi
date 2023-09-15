@@ -1,9 +1,9 @@
 
 - Developing signal processing algorithms for brain functions and networks, through EEG & fMRI
 - Learning computer music production
-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ehsaneqlimi)](https://github.com/ehsaneqlimi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaneqlimi&layout=compact)](https://github.com/ehsaneqlimi)
 <!--
 **EhsanEqlimi/EhsanEqlimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
