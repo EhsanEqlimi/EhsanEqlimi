@@ -2,8 +2,6 @@
 - Developing signal processing algorithms for brain functions and networks, through EEG & fMRI
 - Learning computer music production
 - [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ehsaneqlimi)](https://github.com/ehsaneqlimi)
-
-
 <!--
 **EhsanEqlimi/EhsanEqlimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
