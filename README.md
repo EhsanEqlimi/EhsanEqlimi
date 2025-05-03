@@ -1,7 +1,7 @@
 
 
 ## Experience
-- **Current**: PostDoc fellow in signal processing and AI for electrophysiology @ EURECOM, AI4Health team
+- **Current**: PostDoc fellow in signal processing and AI for electrophysiology @ [EURECOM](https://www.eurecom.fr/en), AI4Health team
 - **Previous**: Data scientist  @ AZORG 
 - **Previous**: PostDoc researcher in medical image processing – @ULB, BEAMS team
 - **Previous**: PostDoc researcher in EEG signal processing  – @UGent, WAVES team
