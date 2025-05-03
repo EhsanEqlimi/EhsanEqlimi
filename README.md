@@ -1,8 +1,4 @@
 
-# Hi there, Vincenzo's here 👋  
-*Nothing serious, just my life recap until now.*
-
----
 
 ## 💻 Experience
 - 🧠 **Current**: PostDoc fellow in signal processing and AI for electrophysiology @ EURECOM, AI4Health team
