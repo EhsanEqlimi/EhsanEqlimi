@@ -12,7 +12,7 @@
 
 ## Education
 -  PhD in biomedical engineering/signal processing @ Ghent University, Belgium  
--  MSc in biomedical engineering  @ Tehran University, Iran 
+-  MSc in biomedical engineering/neuroimaging  @ Tehran University, Iran 
 -  BSc in electrical/biomedical engineering @ Sahand University of Technology, Iran 
 
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ehsaneqlimi)](https://github.com/ehsaneqlimi)
