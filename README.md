@@ -1,4 +1,15 @@
 
+# Hi there, Vincenzo's here 👋  
+*Nothing serious, just my life recap until now.*
+
+---
+
+## 💻 Experience
+- 🧠 **Current**: PostDoc fellow in signal processing and AI for electrophysiology @ EURECOM, AI4Health team
+- 📦 **Previous**: Data scientist  @ AZORG – Data Science team  
+- 🏥 **Previous**: PostDoc reseracher @ OAK Group – The University of Sheffield  
+-
+
 - Developing signal processing algorithms for brain functions and networks, through EEG & fMRI
 - Learning computer music production
 
