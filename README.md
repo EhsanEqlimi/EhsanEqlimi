@@ -13,7 +13,16 @@
 ## Education
 -  PhD in biomedical engineering/signal processing @ Ghent University, Belgium  
 -  MSc in biomedical engineering/neuroimaging  @ Tehran University, Iran 
--  BSc in electrical/biomedical engineering @ Sahand University of Technology, Iran 
+-  BSc in electrical/biomedical engineering @ Sahand University of Technology, Iran
+
+-  ## About me
+  When I’m not working with signals, I’m:
+- I like reading about philosophy.  
+- I'm drawn to wild animals.
+- Music is a daily companion. 
+- Football is a steady interest.
+- Dostoevsky's books stay with me, and I keep revisiting them.
+  
 
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ehsaneqlimi)](https://github.com/ehsaneqlimi)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaneqlimi&layout=compact)](https://github.com/ehsaneqlimi)
