@@ -1,11 +1,10 @@
 
 
 ## Experience
-- **Current**: PostDoc fellow in signal processing and AI for electrophysiology @ [EURECOM](https://www.eurecom.fr/en), AI4Health team
-- **Previous**: Data scientist  @ AZORG 
-- **Previous**: PostDoc researcher in medical image processing – @ULB, BEAMS team
-- **Previous**: PostDoc researcher in EEG signal processing  – @UGent, WAVES team
-- **Previous**: PhD researcher in EEG signal processing  – @UGent, WAVES team
+- **Current**: PostDoc fellow in AI for electrophysiology @ [EURECOM](https://www.eurecom.fr/en), [AI4Health team](https://github.com/robustml-eurecom)
+- **Previous**: PostDoc researcher in medical image processing – @ [ULB](https://www.ulb.be/en/ulb-homepage), [BEAMS team](https://beams.polytech.ulb.be/)
+- **Previous**: PostDoc researcher in EEG signal processing  – @ [UGent](https://www.ugent.be/en), [WAVES team](https://www.waves.intec.ugent.be/)
+- **Previous**: PhD researcher in EEG signal processing  – @ [UGent], [WAVES team](https://www.waves.intec.ugent.be/)
 
 - Developing signal processing algorithms for brain functions and networks, through EEG & fMRI
 - Learning computer music production
