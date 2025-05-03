@@ -3,8 +3,8 @@
 ## Experience
 - **Current**: PostDoc fellow in AI for electrophysiology @ [EURECOM](https://www.eurecom.fr/en), [AI4Health](https://github.com/robustml-eurecom)
 - **Previous**: PostDoc researcher in medical image processing @ [ULB](https://www.ulb.be/en/ulb-homepage), [BEAMS](https://beams.polytech.ulb.be/)
-- **Previous**: PostDoc researcher in EEG signal processing  @ [UGent-imec](https://www.ugent.be/en), [WAVES](https://www.waves.intec.ugent.be/)
-- **Previous**: PhD researcher in EEG signal processing  @ [UGent-imec](https://www.ugent.be/en), [WAVES](https://www.waves.intec.ugent.be/)
+- **Previous**: PostDoc researcher in EEG signal processing  @ [UGent](https://www.ugent.be/en)/[imec](https://www.imec-int.com/en), [WAVES](https://www.waves.intec.ugent.be/)
+- **Previous**: PhD researcher in EEG signal processing  @ [UGent-imec](https://www.ugent.be/en)[imec](https://www.imec-int.com/en), [WAVES](https://www.waves.intec.ugent.be/)
 - **Previous**: Researcher in signal processing and applied linear algebra  @ Tehran University
 - **Previous**: Image processing engineer (segmentation)   @ NRP company
 - **Previous**: Image processing engineer (biometrics)   @ Matiran company
