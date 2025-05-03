@@ -16,11 +16,6 @@
 -  BSc in electrical/biomedical engineering @ Sahand University of Technology, Iran
 
 -  ## About me
-  When I’m not working with signals, I’m:
-- I like reading about philosophy.  
-- I'm drawn to wild animals.
-- Music is a daily companion. 
-- Football is a steady interest.
 - Dostoevsky's books stay with me, and I keep revisiting them.
   
 
