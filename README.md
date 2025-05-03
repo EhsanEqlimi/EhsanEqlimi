@@ -16,7 +16,10 @@
 -  BSc in electrical/biomedical engineering @ Sahand University of Technology, Iran
 
 -  ## About me
+- I’m into "theory" and understanding "how" systems work. 
+-  I like reading about philosophy.
 - Dostoevsky's books stay with me, and I keep revisiting them.
+- Music is always around me.
   
 
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ehsaneqlimi)](https://github.com/ehsaneqlimi)
