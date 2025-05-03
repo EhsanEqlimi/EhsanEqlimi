@@ -17,7 +17,7 @@
 
 -  ## About me
 - I’m into "theory" and understanding "how" systems work. 
--  I like reading about philosophy.
+- I like reading about philosophy.
 - Dostoevsky's books stay with me, and I keep revisiting them.
 - Music is always around me.
   
