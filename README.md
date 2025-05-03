@@ -6,11 +6,11 @@
 - **Previous**: PostDoc researcher in EEG signal processing  @ [UGent](https://www.ugent.be/en), [WAVES](https://www.waves.intec.ugent.be/)
 - **Previous**: PhD researcher in EEG signal processing  @ [UGent](https://www.ugent.be/en), [WAVES](https://www.waves.intec.ugent.be/)
 - **Previous**: Researcher in signal processing and applied linear algebra  @ Tehran University
-- **Previous**: Image processing engineer (segmenation)   @ NRP company
+- **Previous**: Image processing engineer (segmentation)   @ NRP company
 - **Previous**: Image processing engineer (biometrics)   @ Matiran company
 - **Previous**: Image processing engineer (biometrics)   @ SGI company
 
-## 🎓 Education
+## Education
 -  PhD in biomedical engineering/signal processing @ Ghent University, Belgium  
 -  MSc in biomedical engineering  @ Tehran University, Iran 
 -  BSc in electrical/biomedical engineering @ Sahand University of Technology, Iran 
