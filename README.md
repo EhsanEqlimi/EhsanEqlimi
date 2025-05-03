@@ -7,9 +7,9 @@
 - **Previous**: PhD researcher in EEG signal processing  @ [UGent](https://www.ugent.be/en), [WAVES](https://www.waves.intec.ugent.be/)
 
 ## 🎓 Education
-- 🤖 PhD in Biomedical Engineering/signal processing @ Ghent University  
-- 📊 MSc in Biomedical Engineering  @ Tehran University  
-- ⚙️ BSc in Electrical/Biomedical Engineering/ @ Sahand University of Technology 
+-  PhD in Biomedical Engineering/signal processing @ Ghent University  
+-  MSc in Biomedical Engineering  @ Tehran University  
+-  BSc in Electrical/Biomedical Engineering/ @ Sahand University of Technology 
 
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ehsaneqlimi)](https://github.com/ehsaneqlimi)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaneqlimi&layout=compact)](https://github.com/ehsaneqlimi)
