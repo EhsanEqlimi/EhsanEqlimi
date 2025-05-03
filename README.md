@@ -2,9 +2,10 @@
 
 ## Experience
 - **Current**: PostDoc fellow in signal processing and AI for electrophysiology @ EURECOM, AI4Health team
-- **Previous**: Data scientist  @ AZORG – Data Science team  
-- **Previous**: PostDoc reseracher @ OAK Group – The University of Sheffield  
--
+- **Previous**: Data scientist  @ AZORG 
+- **Previous**: PostDoc researcher in medical image processing – @ULB, BEAMS team
+- **Previous**: PostDoc researcher in EEG signal processing  – @UGent, WAVES team
+- **Previous**: PhD researcher in EEG signal processing  – @UGent, WAVES team
 
 - Developing signal processing algorithms for brain functions and networks, through EEG & fMRI
 - Learning computer music production
