@@ -6,8 +6,7 @@
 - **Previous**: PostDoc researcher in EEG signal processing  @ [UGent](https://www.ugent.be/en), [WAVES team](https://www.waves.intec.ugent.be/)
 - **Previous**: PhD researcher in EEG signal processing  @ [UGent], [WAVES team](https://www.waves.intec.ugent.be/)
 
-- Developing signal processing algorithms for brain functions and networks, through EEG & fMRI
-- Learning computer music production
+
 
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ehsaneqlimi)](https://github.com/ehsaneqlimi)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaneqlimi&layout=compact)](https://github.com/ehsaneqlimi)
