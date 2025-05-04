@@ -28,6 +28,12 @@
   <a href="mailto:eqlimi.ehsan@gmail.com">
     <img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail"/>
   </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="24"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Your-Name">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/ResearchGate_Logo.svg" alt="ResearchGate" width="24"/>
+  </a>
 </p>
 <!-- This is a comment -->
 <!--
