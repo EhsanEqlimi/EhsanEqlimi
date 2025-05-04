@@ -30,7 +30,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/24px-Google_Scholar_logo.svg.png" width="24" alt="Google Scholar" />
   </a>
   <a href="https://bsky.app/profile/ehsan-eqlimi.bsky.social">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bluesky_logo.svg" alt="Bluesky" width="24"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Bluesky_Logo.svg" alt="Bluesky" width="24"/>
+  </a>
   </a>
   </a>
   <a href="mailto:eqlimi.ehsan@gmail.com">
