@@ -23,9 +23,8 @@
   
   ## 🔗  Links & Contact
 
-- [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
-- [Bluesky](https://bsky.app/profile/yourhandle.bsky.social)
-- [Email](mailto:yourname@gmail.com)
+[![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.svg)](https://scholar.google.com/citations?user=YOUR_ID)  
+
 
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ehsaneqlimi)](https://github.com/ehsaneqlimi)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaneqlimi&layout=compact)](https://github.com/ehsaneqlimi)
