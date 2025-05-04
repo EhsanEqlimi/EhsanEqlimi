@@ -21,13 +21,14 @@
 -  Dostoevsky's books stay with me, and I keep revisiting them.
 -  Music is always around me.
   
-
+<!--
 ## Contact
 
 <p align="center">
   <a href="mailto:eqlimi.ehsan@gmail.com">
     <img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail"/>
 </p>
+-->
 <!-- This is a comment -->
 <!--
 <!-- This is a comment -->
