@@ -22,21 +22,19 @@
 -  Music is always around me.
   
 
-## 🔗  Links & Contact
+## Links & Contact
 
 <p align="center">
  
   <a href="https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/24px-Google_Scholar_logo.svg.png" width="24" alt="Google Scholar" />
   </a>
-  <a href="https://bsky.app/profile/ehsan-eqlimi.bsky.social">
-        <BlueSky>
-
-  </a>
   <a href="mailto:eqlimi.ehsan@gmail.com">
     <img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail"/>
   </a>
 </p>
+<!-- This is a comment -->
+<!--
 <!-- This is a comment -->
 <!--
 **EhsanEqlimi/EhsanEqlimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
