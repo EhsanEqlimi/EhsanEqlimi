@@ -21,20 +21,22 @@
 -  Dostoevsky's books stay with me, and I keep revisiting them.
 -  Music is always around me.
   
-  ## 🔗  Links & Contact
+
+## 🔗  Links & Contact
 
 <p align="center">
  
- <a href="[https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en)">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Google_Scholar_logo.svg" alt="Google Scholar" width="50"/>
-</a>
-<a href="[https://bsky.app/profile/yourhandle.bsky.social"](https://bsky.app/profile/ehsan-eqlimi.bsky.social)>
-  <img src="https://img.icons8.com/color/50/000000/bluesky.png" alt="Bluesky"/>
-</a>
-<a href="mailto:eqlimi.ehsan@gmail.com">
-  <img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail"/>
-</a>
+  <a href="https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/24px-Google_Scholar_logo.svg.png" width="24" alt="Google Scholar" />
+  </a>
+  <a href="https://bsky.app/profile/ehsan-eqlimi.bsky.social">
+    <img src="https://img.icons8.com/color/50/000000/bluesky.png" alt="Bluesky"/>
+  </a>
+  <a href="mailto:eqlimi.ehsan@gmail.com">
+    <img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail"/>
+  </a>
 </p>
+
 **EhsanEqlimi/EhsanEqlimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
