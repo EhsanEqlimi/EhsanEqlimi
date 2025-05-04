@@ -32,7 +32,6 @@
   <a href="https://bsky.app/profile/ehsan-eqlimi.bsky.social">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Bluesky_Logo.svg" alt="Bluesky" width="24"/>
   </a>
- 
   <a href="mailto:eqlimi.ehsan@gmail.com">
     <img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail"/>
   </a>
