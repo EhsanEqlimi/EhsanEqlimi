@@ -26,7 +26,7 @@
 <p align="center">
  
  <a href="[https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en)">
-  <img src="https://img.icons8.com/color/50/000000/google-scholar.png" alt="Google Scholar"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Google_Scholar_logo.svg" alt="Google Scholar" width="50"/>
 </a>
 <a href="[https://bsky.app/profile/yourhandle.bsky.social"](https://bsky.app/profile/ehsan-eqlimi.bsky.social)>
   <img src="https://img.icons8.com/color/50/000000/bluesky.png" alt="Bluesky"/>
