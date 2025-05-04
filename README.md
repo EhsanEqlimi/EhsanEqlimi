@@ -23,7 +23,7 @@
   
   ## 🔗  Links & Contact
 
-[![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.svg)](https://scholar.google.com/citations?user=YOUR_ID)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/24px-Google_Scholar_logo.svg.png" width="24" alt="Google Scholar" />](https://scholar.google.com/citations?user=YOUR_ID)
 
 
   [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ehsaneqlimi)](https://github.com/ehsaneqlimi)
