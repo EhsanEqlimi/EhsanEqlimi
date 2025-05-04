@@ -23,7 +23,7 @@
   
   ## 🔗  Links & Contact
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/24px-Google_Scholar_logo.svg.png" width="24" alt="Google Scholar" />]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en))
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/24px-Google_Scholar_logo.svg.png" width="24" alt="Google Scholar" />]([(https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en](https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en))
 • [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bluesky_Logo.svg/24px-Bluesky_Logo.svg.png" width="24" alt="Bluesky" />](https://bsky.app/profile/ehsan-eqlimi.bsky.social))
 • [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="24" alt="Gmail" />](mailto:eqlimi.ehsan@gmail.com)
 
