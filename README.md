@@ -22,13 +22,9 @@
 -  Music is always around me.
   
 
-## Links & Contact
+## Contact
 
 <p align="center">
- 
-  <a href="https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/24px-Google_Scholar_logo.svg.png" width="24" alt="Google Scholar" />
-  </a>
   <a href="mailto:eqlimi.ehsan@gmail.com">
     <img src="https://img.icons8.com/color/50/000000/gmail-new.png" alt="Gmail"/>
   </a>
