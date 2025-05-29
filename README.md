@@ -1,7 +1,7 @@
 
 
 ## Experience
-- **Cur.** PostDoc fellow in AI for electrophysiology @ [EURECOM](https://www.eurecom.fr/en), [AI4Health](https://github.com/robustml-eurecom)
+- **Cur.** PostDoc fellow in AI for electrophysiology
 - **Prev.** PostDoc researcher in medical image processing @ [ULB](https://www.ulb.be/en/ulb-homepage), [BEAMS](https://beams.polytech.ulb.be/)
 - **Prev.** PostDoc researcher in EEG signal processing  @ [UGent](https://www.ugent.be/en)/[imec](https://www.imec-int.com/en), [WAVES](https://www.waves.intec.ugent.be/)
 - **Prev.** PhD researcher in EEG signal processing  @ [UGent](https://www.ugent.be/en)/[imec](https://www.imec-int.com/en), [WAVES](https://www.waves.intec.ugent.be/)
