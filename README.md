@@ -1,7 +1,7 @@
 
 
 ## Experience
-- **Cur.** Signal processing+ ML researcher @ Ghent University
+- **Cur.** Signal processing+ ML researcher @ [Ghent University](https://www.ugent.be/en)
 - **Prev.** Data Scientist @ [AZORG hospital](https://www.azorg.be/en)
 - **Prev.** PostDoc researcher in medical image processing @ [ULB](https://www.ulb.be/en/ulb-homepage), [BEAMS](https://beams.polytech.ulb.be/)
 - **Prev.** PostDoc researcher in EEG signal processing  @ [UGent](https://www.ugent.be/en)/[imec](https://www.imec-int.com/en), [WAVES](https://www.waves.intec.ugent.be/)
