@@ -1,8 +1,8 @@
 
 
 ## Experience
- - **Cur.** Postdoc fellow in EEG and brain oscillations in decision-making @ [Columbia University](https://www.columbia.edu/), [Brain Rhythms Lab ](https://www.haegenslab.com/)
-- **Prev.** Postdoc fellow in machine learning @ [EURECOM](https://www.eurecom.fr/en/node/388)
+ - **Cur.** PostDoc fellow in EEG and brain oscillations in decision-making @ [Columbia University](https://www.columbia.edu/), [Brain Rhythms Lab ](https://www.haegenslab.com/)
+- **Prev.** PostDoc fellow in machine learning @ [EURECOM](https://www.eurecom.fr/en/node/388)
 - **Prev.** Data Scientist @ [AZORG hospital](https://www.azorg.be/en)
 - **Prev.** PostDoc researcher in medical image processing @ [ULB](https://www.ulb.be/en/ulb-homepage), [BEAMS](https://beams.polytech.ulb.be/)
 - **Prev.** PostDoc researcher in EEG signal processing  @ [UGent](https://www.ugent.be/en)/[imec](https://www.imec-int.com/en), [WAVES](https://www.waves.intec.ugent.be/)
