@@ -15,7 +15,7 @@
 ## Education
 -  PhD in biomedical engineering/signal processing @ Ghent University, Belgium  
 -  MSc in biomedical engineering/neuroimaging  @ Tehran University, Iran 
--  BSc in electrical/biomedical engineering @ Sahand University of Technology, Iran
+-  BSc in electrical/biomedical engineering @ Tabriz University of Technology (form. Sahand University of Technology), Iran
 
 ## About me
 -  I’m into "theory" and understanding "how" systems work. 
