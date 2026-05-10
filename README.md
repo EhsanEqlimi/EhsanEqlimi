@@ -13,9 +13,9 @@
 - **Prev.** Image processing engineer @ [Sciences Green/SGI company](https://sgi.ir/?lang=en)
 
 ## Education
--  PhD in biomedical engineering/signal processing @ Ghent University, Belgium  
--  MSc in biomedical engineering/neuroimaging  @ Tehran University, Iran 
--  BSc in electrical/biomedical engineering @ Tabriz University of Technology (form. Sahand University of Technology), Iran
+-  PhD in biomedical engineering/signal processing @ Ghent University, Ghent, Belgium  
+-  MSc in biomedical engineering/neuroimaging  @ Tehran University, Tehran, Iran 
+-  BSc in electrical/biomedical engineering @ Tabriz University of Technology (formerly Sahand University of Technology), Tabriz, Iran
 
 ## About me
 -  I’m into "theory" and understanding "how" systems work. 
