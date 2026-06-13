@@ -1,7 +1,7 @@
 
 
 ## Experience
- - **Cur.** PostDoc fellow in computational neuroimaging (simultaneous EEG-fMRI) @ INRIA
+ - **Cur.** PostDoc research scientist in brain oscillatory dynamics @ [Columbia University](https://www.columbia.edu/) w/ [Brain Rhythims lab] (https://www.haegenslab.com/people)
 - **Prev.** PostDoc fellow in machine learning @ [EURECOM](https://www.eurecom.fr/en/node/388)
 - **Prev.** Data Scientist @ [AZORG hospital](https://www.azorg.be/en)
 - **Prev.** PostDoc researcher in medical image processing @ [ULB](https://www.ulb.be/en/ulb-homepage), [BEAMS](https://beams.polytech.ulb.be/)
